@@ -62,6 +62,7 @@ class ParamEditor extends Component<Props, State> {
                 <h3>Редактирование параметров</h3>
                 <ParamsList params={this.props.params} paramValues={this.state.paramValues} handleChange={this.handleChange} />
                 <button onClick={() => console.log(this.getModel())}>Получить модель</button>
+                <p>вывод в консоли</p>
             </div>
         );
     }
