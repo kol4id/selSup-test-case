@@ -1,3 +1,5 @@
+###  реализация тут -> src/app/ParamEditor.tsx  
+
 ### 1. Склонировать репозиторий  
 ```bash
 git clone https://github.com/kol4id/selSup-test-case
